@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-twittertechtrends-dev-114459-authRole",
+      "UnauthRoleArn": "arn:aws:iam::171647588174:role/amplify-twittertechtrends-dev-114459-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::171647588174:role/amplify-twittertechtrends-dev-114459-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-twittertechtrends-dev-114459-deployment",
+      "UnauthRoleName": "amplify-twittertechtrends-dev-114459-unauthRole",
+      "StackName": "amplify-twittertechtrends-dev-114459",
+      "StackId": "arn:aws:cloudformation:us-east-1:171647588174:stack/amplify-twittertechtrends-dev-114459/8687ed20-8341-11eb-b663-12d55a58e4d7",
+      "AmplifyAppId": "dta8up25rgxqp"
+    },
+    "categories": {
+      "auth": {
+        "twittertechtrendsfaa4c986": {}
+      }
+    }
+  }
+}
